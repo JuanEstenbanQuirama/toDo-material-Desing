@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// es un proyecto pequeno, no es necesario hacer un scss aparte para las variables pero igual bune apractica
+
+.navBar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
